@@ -1,0 +1,1 @@
+#Bu kısımda Python IDLE ile aritmatik işlemler yapıldı.

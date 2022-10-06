@@ -1,0 +1,10 @@
+kAdi        = input("Adınızı Yazınız : " )
+kSoyadi     = input("Soyadınızı Yazınız : ")
+kDogumtarihi= input("Doğum Tarihi ( GG/AA/YYYY)")
+kEgitimdurum= input("Ortaokul/Lise/Üniversite ?")
+
+print(kAdi,kSoyadi,"'in"," Kişisel Bilgileri : ")
+print("Adı : " , kAdi)
+print("Soyadı : ", kSoyadi)
+print("Doğum Tarihi : ", kDogumtarihi)
+print("Eğitim Durum : ", kEgitimdurum)
